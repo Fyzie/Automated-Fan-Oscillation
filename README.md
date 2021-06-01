@@ -1,1 +1,1 @@
-# Automated-Fan-Pointer
+# Automated Fan Pointer
